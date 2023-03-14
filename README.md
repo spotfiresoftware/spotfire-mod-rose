@@ -8,6 +8,8 @@ A common use of a rose chart is in showing wind speed or noise levels. The 'axes
 
 ## Installation & Use
 
+[Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-rose/releases)
+
 The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-rose/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
